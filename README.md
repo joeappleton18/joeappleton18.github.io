@@ -45,7 +45,7 @@ If you don't have one already set up a gitHub account at [github.com](http://www
 
 - Nominate a team leader **you can form one group or use smaller sub groups**. Ideally the team leader would have used git and gitHub before
 
-- [The team leader needs to download my starter project](https://github.com/sirus21/rotterdamtravelguide/archive/master.zip)
+- [The team leader needs to download my starter project](https://github.com/joeappleton18/rotterdamtravelguide/archive/master.zip)
 
 - The downloaded zip file needs to be unzipped
 
@@ -169,7 +169,7 @@ Not only is gitHub great for collaborating, they'll also host your website for f
 `git push origin master`
 
 
-
+- Your website can be found at `<username>.github.io`
 
 
 
